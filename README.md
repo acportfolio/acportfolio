@@ -7,4 +7,4 @@ This is a very brief demonstration of my Data Science skills in Python, R, Keras
 [3. Transfer Learning using Keras - Monkey Images Classissifcation - CNN Deep Neural Network](https://github.com/acportfolio/acportfolio/blob/master/Transfer_Learning_CNN_Monkey_Classification.ipynb)  
 [4. Mapping Brand Perceptions using R - Market Research](https://github.com/acportfolio/acportfolio/blob/master/Mapping_Brand_Perceptions_using_R_-_Market_Research.ipynb)  
 [5. Discrete Choice Modeling (Conjoint) R - Market Research](https://github.com/acportfolio/acportfolio/blob/master/Discrete_Choice_Modeling_Conjoint_%20R_-_Market%20Research.ipynb)  
-[6. Text Analytics - Topic Modelling and Sentiment on Amazon Comments using R] (https://github.com/acportfolio/acportfolio/blob/master/Text_Analytics_Topic_Modelling_Sentiment_Amazon_Comments_-_R.ipynb)
+[6. Text Analytics - Topic Modelling and Sentiment on Amazon Comments using R](https://github.com/acportfolio/acportfolio/blob/master/Text_Analytics_Topic_Modelling_Sentiment_Amazon_Comments_-_R.ipynb)
